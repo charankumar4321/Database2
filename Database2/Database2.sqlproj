@@ -58,4 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="MYtable.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Database2.refactorlog" />
+  </ItemGroup>
 </Project>
